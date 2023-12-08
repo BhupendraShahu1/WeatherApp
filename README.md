@@ -1,27 +1,13 @@
 # APP Name 
 # Weather App
 - # Overview
-In this app we use only three Activity Screen that are Splash,Login and MainActivity Screen and the whole app is based on Fragment and we use Fragment Navigation that are simple and easy to use that are make light wight , neat and clean Instagram UI
+In this app we use only two Activity Screen that are Splash and MainActivity Screen the weather data show only MainActivity with the help of Retrofit Api,we give SearchBar for search the location of where You want.Acorrding to the weather Condition the Ui Background is Change .
 - # Feature 
 - ## Splash Screen:
 A splash screen is the initial screen that appears when the Instagram app is launched.
-- ## Login Screen:
--  **Username/Email and Password:** Username/Email and Password: Users are prompted to enter their username or email and password associated with their Instagram account.
-- **"Forgot Password" Link:** " Link: A link is typically provided for users who may have forgotten their password. Clicking on this link allows users to reset their password.
-- **"Log In" Button:** After entering the required credentials, users can click the "Log In" button to authenticate and access their Instagram account.
-- ## Create Account Screen-
-- **Sign-Up Form:** Users who do not have an Instagram account can sign up by providing the following information:
-- **Full Name:** The user's full name.
-- **Username:** A unique username that will be associated with the user's account (e.g., @example).
-- **Email:** The user's email address.
-- **Password:** A secure password for the account.
-- **Next Button:** After entering the required information, users can proceed to the next step by clicking the "Next" button.
-- ## Bottom Navigation Bar:
-- Instagram's bottom navigation bar is a key component that provides easy access to various sections of the app.
-- It usually includes icons and labels for Home Feed, Search, Camera (for creating posts), Activity (notifications), and the User's Profile.
-- Tapping on each icon in the bottom navigation bar navigates the user to the corresponding section of the app.
-- The selected icon is often highlighted to indicate the user's current location within the app.
-- The bottom navigation bar is a persistent element that remains visible across different screens for quick navigation.
+## MainScreen 
+- SearchBar are use to search the Weather Location
+- And other UI part are show the Temprature and Location And Envierment
 - # Requirements
  - ### Android Studio
 - ### Android SDK
@@ -35,7 +21,7 @@ Before you begin, ensure you have the following tools installed:
 
 - [Android Studio](https://developer.android.com/studio)
 - [Android SDK](https://developer.android.com/studio#downloads)
-- [Java](https://docs.oracle.com/javase/tutorial/java/index.html)
+- [Kotlin](https://developer.android.com/kotlin)
 
 ### Clone the Repository
 
