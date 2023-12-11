@@ -4,7 +4,7 @@
 In this app we use only two Activity Screen that are Splash and MainActivity Screen the weather data show only MainActivity with the help of Retrofit Api,we give SearchBar for search the location of where You want.Acorrding to the weather Condition the Ui Background is Change .
 - # Feature 
 - ## Splash Screen:
-A splash screen is the initial screen that appears when the Instagram app is launched.
+A splash screen is the initial screen that appears when the Weather app is launched.
 ## MainScreen 
 - SearchBar are use to search the Weather Location
 - And other UI part are show the Temprature and Location And Envierment
@@ -51,6 +51,9 @@ Before you begin, ensure you have the following tools installed:
 
 - Open the app and explore the intuitive user interface.
 # OutLook
+## Video
+https://github.com/BhupendraShahu1/WeatherApp/assets/149964984/9868375d-268f-4d9d-82ab-2875b28ab5b6
+## ScreenShot
 <img src="https://github.com/BhupendraShahu1/WeatherApp/assets/149964984/a2df0005-a00b-4a08-baa6-769c1e874189/Splash.jpg" alt="Splash Screen" width="200" hight="300"/>
 <img src="https://github.com/BhupendraShahu1/WeatherApp/assets/149964984/3d22233c-b6c9-4586-a6a5-3282a6e24387/login.jPg" width="200" hight="300"/>
 
