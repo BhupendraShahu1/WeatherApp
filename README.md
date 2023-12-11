@@ -30,7 +30,7 @@ Before you begin, ensure you have the following tools installed:
 2. Clone the repository using the following command:
 
     ```bash
-    git clone https://github.com/BhupendraShahu1/InstagramUI.git
+    git clone https://github.com/BhupendraShahu1/WeatherApp
     ```
 
 ### Open in Android Studio
